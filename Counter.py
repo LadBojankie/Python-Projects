@@ -1,3 +1,5 @@
+# The first project with tkinter to practice UIs. A simple counter with a text box to give a custom title.
+
 import tkinter as tk
 
 root = tk.Tk()
