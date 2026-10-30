@@ -1,3 +1,5 @@
+# Another starter project I made alongside the slots game. The plan was to make a bunch of random casino games and compile them into one program but I honestly forgot about it after a while.
+
 import random
 
 number = 'placeholder'
