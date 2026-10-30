@@ -1,3 +1,5 @@
+# This is one of my first projects I made after learning Python. A little rudamentary because I didn't know how to properly use functions at the time, but it works.
+
 import random
 
 highscore = 100
