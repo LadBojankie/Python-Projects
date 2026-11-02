@@ -1,3 +1,7 @@
+# This is sort of my magnum opus when it comes to my python projects. This is an unfinished puzzle game I made based on a game I really like called Keep Talking and Nobody Explodes.
+# One person has a manual (which I'll also upload to the github) and the other person has the game, the goal is to figure out the puzzles by talking to eachother.
+# The python version of the game remains unfinished because I wanted to move the project to Unity. Unfortunetly, that didn't happen because C# is a major pain to learn.
+
 import tkinter as tk
 import random
 
