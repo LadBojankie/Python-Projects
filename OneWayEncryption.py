@@ -1,3 +1,5 @@
+# I made this after learning about data encryption in Networking, I wanted to try making my own data encryption program. It's pretty simple, but it works well.
+
 # Scramble dictionaries
 # Desync dictionaries
 
